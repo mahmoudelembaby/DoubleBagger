@@ -1,7 +1,7 @@
 import pandas as pd
 from sqlalchemy import create_engine
 
-engine = create_engine('postgresql://sammylee@localhost:5432/doublebagger')
+engine = create_engine('postgresql://mahmoud@localhost:5432/doublebagger')
 
 posts = pd.read_sql('select * from post_post', engine)
 
