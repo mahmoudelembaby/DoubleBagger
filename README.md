@@ -1,6 +1,6 @@
 # DoubleBagger
 
-Data Engineering miniProject using Python, Django, Pandas, PostgreSQL
+- Data Engineering miniProject using Python, Django, Pandas, PostgreSQL
 
 - the project go over the following:
 
